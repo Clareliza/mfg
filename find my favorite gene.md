@@ -77,8 +77,8 @@ Here is the top hit for GeoDuck Female
 
 When I did a blastx (Olympia female) in Genbank I found:
 
-![picture-of-something](https://github.com/Clareliza/mfg/blob/master/Blast.JPG)
+![picture-of-something](Blast.JPG)
 
 This is the protein information:
 
-![picture-of-something](Fox2Prot.JPEG)
+![picture-of-something](Fox2Prot.JPG)
