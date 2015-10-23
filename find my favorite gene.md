@@ -16,7 +16,7 @@ This is a direct link to the article:
 In the oyster Crassostrea gigas, a successive hermaphrodite, Cg-Foxl2, an ortholog of Foxl2, is suspected to be involved in vitellogenesis or female sex determination. The existence of a natural antisense transcript (NAT) of this factor has been suspected in gonads but needs to be confirmed to better understand the early events of the gonadic differentiation. The occurrence of this NAT was studied by orientation-specific RT-PCR. The NAT and its mRNA expressions were investigated during the development and in adults by real-time PCR and in situ hybridization. The presence of stable in vivo RNA-RNA duplexes was also explored by RNase protection-based approach. This work is the first evidence of characterization of a NAT in the gonads of mollusks and Lophotrochozoa. This NAT named Cg-Foxl2os is supposed to be polyadenylated and forms RNA-RNA duplexes with its mRNA. Cg-Foxl2os is significantly more expressed than Cg-Foxl2 in 2-month-old spats and in mature males. It is co-localized with the mRNA in the cytoplasm of spermatogonia and spermatocytes. The results of this study demonstrate the existence of a NAT of Cg-Foxl2 in the gonads of C. gigas. It may regulate its mRNA expression through formation of cytoplasmic RNA-RNA duplexes during the oyster gonadic differentiation.
 
 
-![picture-of-something](FoxL2.jpg)
+![picture-of-something](FoxL2.JPG)
 
 ---
 This is the gene in Genbank:
