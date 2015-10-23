@@ -20,7 +20,7 @@ In the oyster Crassostrea gigas, a successive hermaphrodite, Cg-Foxl2, an orthol
 
 ---
 This is the gene in Genbank:
-![picture-of-something](FoxL2Genbank.jpg)
+![picture-of-something](FoxL2Genbank.JPG)
 
 This is a direct link to the page
 <http://www.ncbi.nlm.nih.gov/nuccore/FJ768956.1>
